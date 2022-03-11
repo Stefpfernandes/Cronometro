@@ -1,7 +1,7 @@
 
 ## Cronômetro
 
-### Visualizar na <a href="https://stefpfernandes.github.io/Cronometro/"> WEB </a>
+### <a href="https://stefpfernandes.github.io/Cronometro/"> Visualizar </a>
 
 ---
 
